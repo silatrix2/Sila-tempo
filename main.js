@@ -105,7 +105,7 @@ const { tempnumCommand, templistCommand, otpboxCommand } = require('./commands/t
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029VaXKAEoKmCPS6Jz7sw0N";
+global.channelLink = "https://whatsapp.com/channel/0029Vb6DeKwCHDygxt0RXh0L";
 global.ytch = "AiOFLautech";
 
 // Add this near the top of main.js with other global configurations
