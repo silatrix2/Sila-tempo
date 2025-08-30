@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Godszeal Xmd',
+  packname: 'Silatrix md',
   author: '‎',
-  botName: "Godszeal Xmd",
-  botOwner: 'Gods Zeal', // Your name
-  ownerNumber: '2348089336992', //Set your number here without + symbol, just add country code & number without any space
+  botName: "Silatrix md",
+  botOwner: 'sila-tech', // Your name
+  ownerNumber: '255789661031', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
