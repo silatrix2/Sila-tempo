@@ -1,4 +1,4 @@
-# 𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃
+# SILATRIX 𝐌𝐃
 
 <div align="center">
   <a href="https://git.io/typing-svg"> 
