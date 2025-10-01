@@ -25,7 +25,7 @@
 </p>
 
 ---
-###step 2: Deploy on Heroku
+### step 2: Deploy on Heroku
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/silatrix2/Sila-tempo">
