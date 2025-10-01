@@ -2,14 +2,14 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&pause=500&color=33FF00&center=true&width=800&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+Godwin+Hephzibah+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&pause=500&color=33FF00&center=true&width=800&height=100&lines=SILATRIX+XMD;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+Godwin+Hephzibah+Tech" alt="Typing SVG" />
   </a> 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AiOfLautech/God-s-Zeal-Xmd/refs/heads/main/assets/bot_image.jpg" alt="𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃" height="300" style="border-radius:20px;box-shadow:0 0 25px #00ccff">
+  <img src="https://files.catbox.moe/mi50jn.jpeg" alt="SILATRIX XMD" height="300" style="border-radius:20px;box-shadow:0 0 25px #00ccff">
 </div>
 
 ---
@@ -19,17 +19,26 @@
 ### Step 1: Fork Repository
 
 <p align="center">
-  <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/fork">
+  <a href="https://github.com/silatrix2/sila-tempo/fork">
     <img src="https://img.shields.io/badge/-FORK%20REPO-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="40" alt="Fork Badge"/>
   </a>
 </p>
 
 ---
-
-### Step 2: Download & Host
+###step 2: Deploy on Heroku
 
 <p align="center">
-  <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/archive/refs/heads/main.zip">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/silatrix2/Sila-tempo">
+    <img src="https://img.shields.io/badge/-HEROKU?style=for-the-badge&logo=GitHub&logocolor=blue&labelColor=black" height="40" alt="Heroku"/>
+  </a>
+</p>
+
+---
+
+### Step 3: Download & Host
+
+<p align="center">
+  <a href="https://github.com/silatrix2/sila-tempo/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/-DOWNLOAD%20ZIP-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="40" alt="Download ZIP"/>
   </a>
 </p>
@@ -40,13 +49,13 @@
 
 ---
 
-### Step 3: Deploy Now
+### Step 4: Deploy Now
 
 <p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/-DEPLOY%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="40" alt="YouTube Tutorial"/>
   </a>
-  <a href="https://bot-hosting.net/?aff=1271743046865915927">
+  <a href="https://bot-hosting.net/?aff=1411324611806761110">
     <img src="https://img.shields.io/badge/-BOTHOSTING%20PANEL-D6B7D6?style=for-the-badge&logo=serverless&logoColor=black&labelColor=white" height="40" alt="Bot Hosting Panel"/>
   </a>
 </p>
@@ -69,10 +78,10 @@
 ## 🔗 Connect With Us
 
 <p align="center">
-  <a href="https://t.me/aitoolshub01">
+  <a href="https://t.me/silatech">
     <img src="https://img.shields.io/badge/-TELEGRAM%20CHANNEL-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHO8Msp3A">
+  <a href="https://chat.whatsapp.com/FJaYH3HS1rv5pQeGOmKtbM?mode=ems_copy_t">
     <img src="https://img.shields.io/badge/-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"/>
   </a>
 </p>
@@ -83,8 +92,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/AiOfLautech/God-s-Zeal-Xmd.git
-cd God-s-Zeal-Xmd
+git clone https://github.com/silatri2/sila-tempo.git
+cd sila-tempo
 
 # Install dependencies
 npm install
@@ -111,8 +120,8 @@ Always comply with WhatsApp's policies and local laws.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/AiOfLautech">
-        <img src="https://img.shields.io/badge/Godszeal-00ffff?style=for-the-badge&logo=github&logoColor=black" alt="godszeal">
+      <a href="https://github.com/Silatrix2">
+        <img src="https://img.shields.io/badge/Godszeal-00ffff?style=for-the-badge&logo=github&logoColor=black" alt="SilatriX">
       </a>
     </td>
     <td align="center">
@@ -124,7 +133,7 @@ Always comply with WhatsApp's policies and local laws.
 </table>
 
 <p align="center"> 
-  <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/star">
+  <a href="https://github.com/silatrix2/sila-tempo/star">
     <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO_⭐-yellow?style=for-the-badge&logo=github" alt="Star Repo">
   </a>
 </p>
@@ -133,4 +142,4 @@ Always comply with WhatsApp's policies and local laws.
 
 ### 📜 License
 
-MIT © Godszeal
+MIT © SILATRIX
